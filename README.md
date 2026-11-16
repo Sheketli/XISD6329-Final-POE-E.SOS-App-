@@ -166,7 +166,9 @@ Estimated total project cost: **R 309,990** (rounded to R320,000 including manag
 
 ## GitHub Repository Link and Azura DevOps Git Repo for Mobile and Website Application links
 
-- GitHub Link: https://github.com/Sheketli/XISD6329_POE_TaskTwo-E.SOS-App.git 
+- GitHub Link: https://github.com/Sheketli/XISD6329-Final-POE-E.SOS-App-.git
+
+- Azure DevOps link: https://dev.azure.com/ST10452756-XISD6321POE/E.SOS%20Project%20Software%20Application 
 
 - Azura DevOps Git Repo for Mobile App link: https://dev.azure.com/ST10452756-XISD6321POE/E.SOS%20Project%20Software%20Application/_git/E.SOS%20Mobile%20App%20Project%20Software%20Application%20Repo 
 
